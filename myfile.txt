@@ -7,3 +7,4 @@ commit: 인덱스 상태를 기록하기
 issue-01
 end
 issue1-1
+issue1-2
