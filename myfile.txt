@@ -6,3 +6,4 @@ pull: 원격 저장소의 내용을 가져오기
 commit: 인덱스 상태를 기록하기
 issue-01
 end
+issue1-1
